@@ -32,16 +32,16 @@ public class Calculator {
             System.out.println("Sum of the given two numbers: "+(a+b));
             break;
             case 's':
-            System.out.println("Sum of the given two numbers: "+(a-b));
+            System.out.println("Subtraction of the given two numbers: "+(a-b));
             break;
             case 'm':
-            System.out.println("Sum of the given two numbers: "+(a*b));
+            System.out.println("multiplication of the given two numbers: "+(a*b));
             break;
             case '/':
-            System.out.println("Sum of the given two numbers: "+(a/b));
+            System.out.println("division of the given two numbers: "+(a/b));
             break;
             case '%':
-            System.out.println("Sum of the given two numbers: "+(a%b));
+            System.out.println("modulus of the given two numbers: "+(a%b));
             break;
             default :
                 System.out.println("error");
